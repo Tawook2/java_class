@@ -6,6 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/자바SW개발자 양성과정 10월 강태욱/install/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/자바SW개발자 양성과정 10월 강태욱/git/java_class/library/json-simple-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
