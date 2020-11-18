@@ -34,6 +34,7 @@ public class B06_switch {
 			break;
 		default:
 			System.out.println("위의 case가 모두 아닙니다");
+			  
 		}
 	}
 }
