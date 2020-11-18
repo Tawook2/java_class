@@ -17,7 +17,7 @@ public class A01_Escape {
 		System.out.println("이름\t혈액형\t최근헌혈여부");
 		System.out.println("홍길동\tA형\tNo");
 		System.out.println("임꺽정\tO형\tYes");
-		
+		  
 		// \\ : 그냥 역슬래시를 출력하고 싶을 때 사용한다
 		// ex> C:\Program Files\Java\jdk를 출력하고 싶은 경우
 		System.out.println("C:\\Program Files\\Java\\jdk");
@@ -29,7 +29,7 @@ public class A01_Escape {
 		// \' : 그냥 작은따옴표를 출력하고 싶을 때 사용한다
 		System.out.println("아침을 \'든든\'하게 먹어둬라");
 		System.out.println("아침을 '든든'하게 먹어둬라");
-		System.out.println('\'');
+		System.out.println('\'');  
 		
 		
 				
