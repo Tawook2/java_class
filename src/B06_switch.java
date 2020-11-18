@@ -19,7 +19,7 @@ public class B06_switch {
 			break;
 				
 		}
-		
+		  
 		String word = "apple";
 		
 		switch (word.charAt(0)) {
